@@ -1,0 +1,6 @@
+@RaffleApi_HostAddress = http://localhost:5049
+
+GET {{RaffleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
